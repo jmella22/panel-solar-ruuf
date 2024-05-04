@@ -1,0 +1,29 @@
+.form {
+  display: flexbox;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.space {
+  border: 2px solid white;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.input {
+  margin: 1rem;
+  border: 1px solid white;
+  height: 30px;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.result {
+  font-size: 1.5rem;
+}
+.decorate {
+  font-weight: 700;
+  color: blueviolet;
+}
